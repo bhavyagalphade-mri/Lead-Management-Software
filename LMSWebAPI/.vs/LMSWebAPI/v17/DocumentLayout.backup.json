@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\leadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\leadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\leadassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\leadassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|c:\\users\\bhavya.galphade\\source\\repos\\lmswebapi\\lmswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF8564-572F-4496-8A01-79DD4647756E}|LMSWebAPI\\LMSWebAPI.csproj|solutionrelative:lmswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LMSWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\appsettings.json",
+              "RelativeToolTip": "LMSWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T12:46:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Controllers\\LeadController.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "LMSWebAPI\\Controllers\\LeadController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:07:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityLogController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\ActivityLogController.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Controllers\\ActivityLogController.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\ActivityLogController.cs",
+              "RelativeToolTip": "LMSWebAPI\\Controllers\\ActivityLogController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:14:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\UpdateUser.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:34:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\UserRole.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:35:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "LMSWebAPI\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwF4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:04:10.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeadAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\LeadAssignment.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\LeadAssignment.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\LeadAssignment.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\LeadAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:34:27.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadLog.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\LeadLog.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\LeadLog.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\LeadLog.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\LeadLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:00:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\Lead.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\Lead.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\Lead.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\Lead.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:26:39.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LMSWebAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:04:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\ActionType.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\ActionType.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\ActionType.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\ActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:46:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:46:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "LMSWebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:12:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LMSWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhavya.Galphade\\source\\repos\\LMSWebAPI\\LMSWebAPI\\Program.cs",
+              "RelativeToolTip": "LMSWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:42:18.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
