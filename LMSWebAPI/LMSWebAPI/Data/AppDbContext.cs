@@ -2,10 +2,13 @@
 using LMSWebAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
+
 namespace LMSWebAPI.Data
 {
     public class AppDbContext : DbContext
     {
+        internal IEnumerable<object> Users;
+
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<User> users { get; set; } 

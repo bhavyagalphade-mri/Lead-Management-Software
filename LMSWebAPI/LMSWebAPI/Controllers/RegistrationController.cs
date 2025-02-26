@@ -186,8 +186,9 @@ namespace LMSWebAPI.Controllers
                 .Select(v => new
                 {
                     Id = v.u_id,
-                    Name = v.u_name ?? "N?A",
+                    Name = v.u_name ?? "N/A",
                     Email = v.u_email ?? "N/A",
+                    Role = v.role,
                     contactNo = v.contact_no ?? "N/A",
                 })
                 .ToListAsync();

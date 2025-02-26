@@ -120,28 +120,24 @@ namespace LMSWebAPI.Controllers
 
             //await new ActivityLogController(_context, _configuration).ActivityLog(user.UId, ActionType.Add, null);         
         }
+        [Authorize]
+        [HttpGet("all-leads")]
 
-        //private async Task LogActivity(int userId, ActionType actionType, int? leadId)
-        //{
-        //    if (leadId.HasValue)
-        //    {
-        //        var leadExists = await _context.leads.AnyAsync(l => l.lead_id == leadId);
-        //        if (!leadExists)
-        //        {
-        //            throw new Exception("Lead does not exist. Activity log failed.");
-        //        }
-        //    }
-
-        //    var log = new ActivityLog
-        //    {
-        //        u_id = userId,
-        //        lead_id = leadId,
-        //        action_type = actionType,
-        //        action_date = DateTime.UtcNow
-        //    };
-
-        //    _context.activity_log.Add(log);
-        //    await _context.SaveChangesAsync();
-        //}
+        public async Task<IActionResult> GetAllLeads()
+        {
+            var leads = await _context.leads
+                .Select(v => new
+                {
+                    Id = v.lead_id,
+                    Name = v.lead_name ?? "N/A",
+                    Email = v.lead_email ?? "N/A",
+                    contactNo = v.lead_contact ?? "N/A",
+                    Source = v.lead_source ?? "N/A",
+                    Assigned_to = v.assigned_to,
+                    LeadStatus = v.lead_status
+                })
+                .ToListAsync();
+            return Ok(leads);
+        }
     }
 }

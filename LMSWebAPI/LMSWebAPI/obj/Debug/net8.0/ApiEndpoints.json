@@ -63,6 +63,16 @@
   },
   {
     "ContainingType": "LMSWebAPI.Controllers.LeadController",
+    "Method": "GetAllLeads",
+    "RelativePath": "api/Lead/all-leads",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LMSWebAPI.Controllers.LeadController",
     "Method": "UpdateLeadStatus",
     "RelativePath": "api/Lead/updateStatus/{id}",
     "HttpMethod": "PUT",
@@ -159,6 +169,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LMSWebAPI.Controllers.UserController",
+    "Method": "GetHirarchyUsers",
+    "RelativePath": "api/User/get-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

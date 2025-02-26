@@ -156,6 +156,18 @@
         }
       }
     },
+    "/api/Lead/all-leads": {
+      "get": {
+        "tags": [
+          "Lead"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Registration/register": {
       "post": {
         "tags": [
@@ -287,6 +299,18 @@
       "get": {
         "tags": [
           "Registration"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/User/get-users": {
+      "get": {
+        "tags": [
+          "User"
         ],
         "responses": {
           "200": {
